@@ -12,6 +12,8 @@ public class MovingShip_Player : MonoBehaviour
     private Vector2 currentDirection = Vector2.up;
     private InputSystem_Actions inputActions;
 
+    public Vector2 CurrentDirection => currentDirection;
+
     private void Awake()
     {
         RB = GetComponent<Rigidbody2D>();
