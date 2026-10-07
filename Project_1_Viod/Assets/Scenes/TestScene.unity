@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ef27af62a55fe64eb69491e6bd2afb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1233956751}
+  player: {fileID: 894518672}
   followSpeed: 6
   lookAheadDistance: 2
 --- !u!4 &317567458
@@ -272,12 +272,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 317567458}
---- !u!4 &1233956751 stripped
+--- !u!4 &800842480 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 224054219649552437, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+  m_PrefabInstance: {fileID: 1462433456}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &894518672 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
-  m_PrefabInstance: {fileID: 2620931802923745212}
+  m_PrefabInstance: {fileID: 1462433456}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &2620931802923745212
+--- !u!1001 &1462433456
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -287,11 +292,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.914005
+      value: -4.4157114
       objectReference: {fileID: 0}
     - target: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.6366982
+      value: 0.8414763
       objectReference: {fileID: 0}
     - target: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_LocalPosition.z
@@ -325,6 +330,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4610024248639463654, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: FirePointUP
+      value: 
+      objectReference: {fileID: 800842480}
+    - target: {fileID: 4610024248639463654, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: FirePointRoot
+      value: 
+      objectReference: {fileID: 1830292472}
     - target: {fileID: 7382190814370797457, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_Name
       value: PirateShip_0
@@ -334,10 +347,15 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+--- !u!4 &1830292472 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1179476964728054857, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+  m_PrefabInstance: {fileID: 1462433456}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 338809741}
-  - {fileID: 2620931802923745212}
   - {fileID: 317567458}
+  - {fileID: 1462433456}

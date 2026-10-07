@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 public class MovingShip_Player : MonoBehaviour
 {
     [SerializeField] float movingSpeed = 5;
+    public float MovingSpeed => movingSpeed;
     [SerializeField] private float rotationSpeed = 180f;
 
     private Rigidbody2D RB;
@@ -97,6 +98,19 @@ public class MovingShip_Player : MonoBehaviour
             Mathf.Cos(angleRad),
             Mathf.Sin(angleRad)
         );
+    }
+
+    public Vector2 CurrentVelocity
+    {
+        get
+        {
+            if (moveInput.sqrMagnitude > 0.01f)
+            {
+                return currentDirection * movingSpeed;
+            }
+
+            return Vector2.zero;
+        }
     }
 
     private void UpdateAnimation()
