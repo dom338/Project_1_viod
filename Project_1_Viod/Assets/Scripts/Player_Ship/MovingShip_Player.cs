@@ -1,9 +1,13 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class MovingShip_Player : MonoBehaviour
 {
     [SerializeField] float movingSpeed = 5;
+    [SerializeField] float dashSpeed = 4;
+    [SerializeField] float dashTime = 0.2f;
+    [SerializeField] float dashCooldown = 0.25f;
     public float MovingSpeed => movingSpeed;
     [SerializeField] private float rotationSpeed = 180f;
 
@@ -12,6 +16,7 @@ public class MovingShip_Player : MonoBehaviour
     private Vector2 moveInput;
     private Vector2 currentDirection = Vector2.up;
     private InputSystem_Actions inputActions;
+    private bool isDashing = false;
 
     public Vector2 CurrentDirection => currentDirection;
 
@@ -30,6 +35,9 @@ public class MovingShip_Player : MonoBehaviour
         inputActions.Player.Move.performed += OnMove;
         inputActions.Player.Move.canceled += OnMove;
 
+        inputActions.Player.Sprint.performed += OnDash;
+        inputActions.Player.Sprint.canceled += OnDash;
+
     }
 
     private void OnDisable()
@@ -37,16 +45,13 @@ public class MovingShip_Player : MonoBehaviour
         inputActions.Player.Move.performed -= OnMove;
         inputActions.Player.Move.canceled -= OnMove;
 
+        inputActions.Player.Sprint.performed -= OnDash;
+        inputActions.Player.Sprint.canceled -= OnDash;
+
+
         inputActions.Disable();
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
     void Update()
     {
         UpdateAnimation();
@@ -127,5 +132,23 @@ public class MovingShip_Player : MonoBehaviour
             animator.SetFloat("LastInputX", moveInput.x);
             animator.SetFloat("LastInputY", moveInput.y);
         }
+    }
+
+    private void OnDash(InputAction.CallbackContext context)
+    {
+        if (!isDashing)
+        {
+            isDashing = true;
+            movingSpeed *= dashSpeed;
+            StartCoroutine(EndDashRoutine());
+        }
+    }
+
+    private IEnumerator EndDashRoutine()
+    {
+        yield return new WaitForSeconds(dashTime);
+        movingSpeed /= dashSpeed;
+        yield return new WaitForSeconds(dashCooldown);
+        isDashing = false;
     }
 }

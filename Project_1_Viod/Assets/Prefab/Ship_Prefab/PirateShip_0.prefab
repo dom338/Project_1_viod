@@ -319,6 +319,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movingSpeed: 5
+  dashSpeed: 4
+  dashTime: 0.2
+  dashCooldown: 0.25
   rotationSpeed: 180
 --- !u!114 &4610024248639463654
 MonoBehaviour:
@@ -333,6 +336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BulletPrefab: {fileID: 8270043417394442738, guid: a22493c4dcf5cc54bb57fd723d6600b7, type: 3}
-  FirepointUP: {fileID: 224054219649552437}
+  FirePointRoot: {fileID: 0}
+  FirePointUP: {fileID: 0}
   FirePointLeft: {fileID: 6587827213586839698}
   FirePointRight: {fileID: 5905347179539634556}

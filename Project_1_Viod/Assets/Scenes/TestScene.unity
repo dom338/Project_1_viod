@@ -322,6 +322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
+  rotationSpeed: 180
 --- !u!114 &741473082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -559,6 +560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
+  rotationSpeed: 180
 --- !u!114 &803484406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -768,11 +770,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.4157114
+      value: -4.24
       objectReference: {fileID: 0}
     - target: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.8414763
+      value: 1.38
       objectReference: {fileID: 0}
     - target: {fileID: 4424174806164782404, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_LocalPosition.z
@@ -814,12 +816,49 @@ PrefabInstance:
       propertyPath: FirePointRoot
       value: 
       objectReference: {fileID: 1830292472}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_Time
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_SortingLayer
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -642845741
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 30d6d179c1de58d4ba96019a609eb820, type: 2}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].time
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].inWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5699083643251135687, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].outWeight
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7382190814370797457, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_Name
       value: PirateShip_0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 8545258415288315229, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
@@ -12301,6 +12340,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
+  rotationSpeed: 180
 --- !u!114 &2009814820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12390,6 +12430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
+  rotationSpeed: 180
 --- !u!114 &2051915190
 MonoBehaviour:
   m_ObjectHideFlags: 0
