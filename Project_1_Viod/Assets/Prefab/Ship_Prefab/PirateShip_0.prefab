@@ -142,6 +142,7 @@ GameObject:
   - component: {fileID: 8431050225603535269}
   - component: {fileID: 200834804659750197}
   - component: {fileID: 4610024248639463654}
+  - component: {fileID: 4649850251125299935}
   m_Layer: 3
   m_Name: PirateShip_0
   m_TagString: Player
@@ -340,3 +341,15 @@ MonoBehaviour:
   FirePointUP: {fileID: 0}
   FirePointLeft: {fileID: 6587827213586839698}
   FirePointRight: {fileID: 5905347179539634556}
+--- !u!114 &4649850251125299935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7382190814370797457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd90c34295f7430469c997bb3826f9e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
