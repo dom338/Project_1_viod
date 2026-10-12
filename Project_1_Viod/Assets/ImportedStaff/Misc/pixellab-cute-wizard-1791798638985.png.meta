@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 612292f56487e974d806f629deb81b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6138066947261212400
+    second: pixellab-cute-wizard-1791798638985_0
+  - first:
+      213: 3632484967000388525
+    second: pixellab-cute-wizard-1791798638985_1
+  - first:
+      213: -3370008997897066106
+    second: pixellab-cute-wizard-1791798638985_2
+  - first:
+      213: -5136663259398647534
+    second: pixellab-cute-wizard-1791798638985_3
+  - first:
+      213: -8465883599938819524
+    second: pixellab-cute-wizard-1791798638985_4
+  - first:
+      213: 4875150659082255145
+    second: pixellab-cute-wizard-1791798638985_5
+  - first:
+      213: -8539794686176818300
+    second: pixellab-cute-wizard-1791798638985_6
+  - first:
+      213: 7152513416504556843
+    second: pixellab-cute-wizard-1791798638985_7
+  - first:
+      213: -3653171068236845206
+    second: pixellab-cute-wizard-1791798638985_8
+  - first:
+      213: 7039897031116629500
+    second: pixellab-cute-wizard-1791798638985_9
+  - first:
+      213: 4841186376299520849
+    second: pixellab-cute-wizard-1791798638985_10
+  - first:
+      213: 1194706456689655829
+    second: pixellab-cute-wizard-1791798638985_11
+  - first:
+      213: 7608706139980610824
+    second: pixellab-cute-wizard-1791798638985_12
+  - first:
+      213: 1611221082230895259
+    second: pixellab-cute-wizard-1791798638985_13
+  - first:
+      213: -2911694236594718491
+    second: pixellab-cute-wizard-1791798638985_14
+  - first:
+      213: -3533120801693144138
+    second: pixellab-cute-wizard-1791798638985_15
+  - first:
+      213: 7034408055406921048
+    second: pixellab-cute-wizard-1791798638985_16
+  - first:
+      213: 3007305031874467587
+    second: pixellab-cute-wizard-1791798638985_17
+  - first:
+      213: 3511896939052978139
+    second: pixellab-cute-wizard-1791798638985_18
+  - first:
+      213: -4645236568194406587
+    second: pixellab-cute-wizard-1791798638985_19
+  - first:
+      213: -6699563081279058901
+    second: pixellab-cute-wizard-1791798638985_20
+  - first:
+      213: -4469059449917742794
+    second: pixellab-cute-wizard-1791798638985_21
+  - first:
+      213: -4108367851694518414
+    second: pixellab-cute-wizard-1791798638985_22
+  - first:
+      213: 8827147801272292951
+    second: pixellab-cute-wizard-1791798638985_23
+  - first:
+      213: 4814157288694372563
+    second: pixellab-cute-wizard-1791798638985_24
+  - first:
+      213: -2984017317813078469
+    second: pixellab-cute-wizard-1791798638985_25
+  - first:
+      213: 7422686729267281591
+    second: pixellab-cute-wizard-1791798638985_26
+  - first:
+      213: -6281729977199776218
+    second: pixellab-cute-wizard-1791798638985_27
+  - first:
+      213: 5641208743745923685
+    second: pixellab-cute-wizard-1791798638985_28
+  - first:
+      213: -333190068850715698
+    second: pixellab-cute-wizard-1791798638985_29
+  - first:
+      213: 4847881265380769617
+    second: pixellab-cute-wizard-1791798638985_30
+  - first:
+      213: -4025999590416431870
+    second: pixellab-cute-wizard-1791798638985_31
+  - first:
+      213: -2857020221110191931
+    second: pixellab-cute-wizard-1791798638985_32
+  - first:
+      213: 816294145627897500
+    second: pixellab-cute-wizard-1791798638985_33
+  - first:
+      213: -3410792768772113365
+    second: pixellab-cute-wizard-1791798638985_34
+  - first:
+      213: -2796978470599845257
+    second: pixellab-cute-wizard-1791798638985_35
+  - first:
+      213: -4788656777852075591
+    second: pixellab-cute-wizard-1791798638985_36
+  - first:
+      213: 4991156848344209828
+    second: pixellab-cute-wizard-1791798638985_37
+  - first:
+      213: 1930309532285371313
+    second: pixellab-cute-wizard-1791798638985_38
+  - first:
+      213: -2659209689349647902
+    second: pixellab-cute-wizard-1791798638985_39
+  - first:
+      213: 7865583775355229312
+    second: pixellab-cute-wizard-1791798638985_40
+  - first:
+      213: 7139651308385499763
+    second: pixellab-cute-wizard-1791798638985_41
+  - first:
+      213: 4345218326403281121
+    second: pixellab-cute-wizard-1791798638985_42
+  - first:
+      213: -7556032350363373741
+    second: pixellab-cute-wizard-1791798638985_43
+  - first:
+      213: -9030063336903658309
+    second: pixellab-cute-wizard-1791798638985_44
+  - first:
+      213: -8258415008046238903
+    second: pixellab-cute-wizard-1791798638985_45
+  - first:
+      213: -370119906314771131
+    second: pixellab-cute-wizard-1791798638985_46
+  - first:
+      213: 3997667846745545943
+    second: pixellab-cute-wizard-1791798638985_47
+  - first:
+      213: -4273982918982566751
+    second: pixellab-cute-wizard-1791798638985_48
+  - first:
+      213: -1446855805421033042
+    second: pixellab-cute-wizard-1791798638985_49
+  - first:
+      213: -1975239027484148295
+    second: pixellab-cute-wizard-1791798638985_50
+  - first:
+      213: 209277970638093997
+    second: pixellab-cute-wizard-1791798638985_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 746
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6221f1e5bce2550800000000000000
+      internalID: 6138066947261212400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 528
+        width: 222
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3310ee4dd296230800000000000000
+      internalID: 3632484967000388525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 748
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a976eba25b31d0800000000000000
+      internalID: -3370008997897066106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 751
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2115eb41bf7e6b8b0800000000000000
+      internalID: -5136663259398647534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 740
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a67d358b3238a80800000000000000
+      internalID: -8465883599938819524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 529
+        width: 224
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bfb1dd1b308a340800000000000000
+      internalID: 4875150659082255145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 676
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b89ab8afd8c7980800000000000000
+      internalID: -8539794686176818300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 668
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d38f18e05d24360800000000000000
+      internalID: 7152513416504556843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 527
+        width: 217
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f220ec4445d4dc0800000000000000
+      internalID: -3653171068236845206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 675
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5a8030d0db2b160800000000000000
+      internalID: 7039897031116629500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 660
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1532bca0c595f2340800000000000000
+      internalID: 4841186376299520849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 660
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5104ad94133749010800000000000000
+      internalID: 1194706456689655829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 657
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db0e1fbed879960800000000000000
+      internalID: 7608706139980610824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 641
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b923ef4a9053c5610800000000000000
+      internalID: 1611221082230895259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 615
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e83835c4859797d0800000000000000
+      internalID: -2911694236594718491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 603
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6982a955d7fec0800000000000000
+      internalID: -3533120801693144138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 622
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8550da34bdc3f9160800000000000000
+      internalID: 7034408055406921048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 615
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3075f1c3ef71cb920800000000000000
+      internalID: 3007305031874467587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 526
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc804c8a3ccb030800000000000000
+      internalID: 3511896939052978139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 522
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472e17e3fdc88fb0800000000000000
+      internalID: -4645236568194406587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 522
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c4a069fde5603a0800000000000000
+      internalID: -6699563081279058901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 519
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ec8fbb16baf1c0800000000000000
+      internalID: -4469059449917742794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 277
+        width: 210
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0d19b4352cf6c0800000000000000
+      internalID: -4108367851694518414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 493
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75694b23824508a70800000000000000
+      internalID: 8827147801272292951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 273
+        width: 210
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d85c7d2c825fc240800000000000000
+      internalID: 4814157288694372563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 494
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3633283f04a696d0800000000000000
+      internalID: -2984017317813078469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 483
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be7bf0d04ea20760800000000000000
+      internalID: 7422686729267281591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 486
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ea5162edfc2d8a0800000000000000
+      internalID: -6281729977199776218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 491
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aadcac679994e40800000000000000
+      internalID: 5641208743745923685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 399
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3177fc565406bf0800000000000000
+      internalID: -333190068850715698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_30
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 394
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fba406352274340800000000000000
+      internalID: 4847881265380769617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 278
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054c5304b6c028c0800000000000000
+      internalID: -4025999590416431870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 380
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c87e9cfe33d958d0800000000000000
+      internalID: -2857020221110191931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 381
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb166533f045b00800000000000000
+      internalID: 816294145627897500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 347
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cfdd64c0e6aa0d0800000000000000
+      internalID: -3410792768772113365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 351
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a1b7766e22f29d0800000000000000
+      internalID: -2796978470599845257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 273
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14cdc28064b8db0800000000000000
+      internalID: -4788656777852075591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_37
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 267
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a990d395b6244540800000000000000
+      internalID: 4991156848344209828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_38
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 266
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b38b6ada46d9ca10800000000000000
+      internalID: 1930309532285371313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_39
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 268
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1990b60e6981bd0800000000000000
+      internalID: -2659209689349647902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 223
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084df1125ca282d60800000000000000
+      internalID: 7865583775355229312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 241
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a78789903251360800000000000000
+      internalID: 7139651308385499763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 237
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0f8c0cb015d4c30800000000000000
+      internalID: 4345218326403281121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 164
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2b356c94932790800000000000000
+      internalID: -7556032350363373741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 18
+        width: 218
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb434980d35cea280800000000000000
+      internalID: -9030063336903658309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 155
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94336ad1e47346d80800000000000000
+      internalID: -8258415008046238903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 149
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545aecbf7e11ddaf0800000000000000
+      internalID: -370119906314771131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_47
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd44fd9b19a7730800000000000000
+      internalID: 3997667846745545943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 86
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf4f10e23cfa4c0800000000000000
+      internalID: -4273982918982566751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9eaac8f4cbbebe0800000000000000
+      internalID: -1446855805421033042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 12
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb15cd19a8694e0800000000000000
+      internalID: -1975239027484148295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-cute-wizard-1791798638985_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb23b943187e200800000000000000
+      internalID: 209277970638093997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-cute-wizard-1791798638985_0: 6138066947261212400
+      pixellab-cute-wizard-1791798638985_1: 3632484967000388525
+      pixellab-cute-wizard-1791798638985_10: 4841186376299520849
+      pixellab-cute-wizard-1791798638985_11: 1194706456689655829
+      pixellab-cute-wizard-1791798638985_12: 7608706139980610824
+      pixellab-cute-wizard-1791798638985_13: 1611221082230895259
+      pixellab-cute-wizard-1791798638985_14: -2911694236594718491
+      pixellab-cute-wizard-1791798638985_15: -3533120801693144138
+      pixellab-cute-wizard-1791798638985_16: 7034408055406921048
+      pixellab-cute-wizard-1791798638985_17: 3007305031874467587
+      pixellab-cute-wizard-1791798638985_18: 3511896939052978139
+      pixellab-cute-wizard-1791798638985_19: -4645236568194406587
+      pixellab-cute-wizard-1791798638985_2: -3370008997897066106
+      pixellab-cute-wizard-1791798638985_20: -6699563081279058901
+      pixellab-cute-wizard-1791798638985_21: -4469059449917742794
+      pixellab-cute-wizard-1791798638985_22: -4108367851694518414
+      pixellab-cute-wizard-1791798638985_23: 8827147801272292951
+      pixellab-cute-wizard-1791798638985_24: 4814157288694372563
+      pixellab-cute-wizard-1791798638985_25: -2984017317813078469
+      pixellab-cute-wizard-1791798638985_26: 7422686729267281591
+      pixellab-cute-wizard-1791798638985_27: -6281729977199776218
+      pixellab-cute-wizard-1791798638985_28: 5641208743745923685
+      pixellab-cute-wizard-1791798638985_29: -333190068850715698
+      pixellab-cute-wizard-1791798638985_3: -5136663259398647534
+      pixellab-cute-wizard-1791798638985_30: 4847881265380769617
+      pixellab-cute-wizard-1791798638985_31: -4025999590416431870
+      pixellab-cute-wizard-1791798638985_32: -2857020221110191931
+      pixellab-cute-wizard-1791798638985_33: 816294145627897500
+      pixellab-cute-wizard-1791798638985_34: -3410792768772113365
+      pixellab-cute-wizard-1791798638985_35: -2796978470599845257
+      pixellab-cute-wizard-1791798638985_36: -4788656777852075591
+      pixellab-cute-wizard-1791798638985_37: 4991156848344209828
+      pixellab-cute-wizard-1791798638985_38: 1930309532285371313
+      pixellab-cute-wizard-1791798638985_39: -2659209689349647902
+      pixellab-cute-wizard-1791798638985_4: -8465883599938819524
+      pixellab-cute-wizard-1791798638985_40: 7865583775355229312
+      pixellab-cute-wizard-1791798638985_41: 7139651308385499763
+      pixellab-cute-wizard-1791798638985_42: 4345218326403281121
+      pixellab-cute-wizard-1791798638985_43: -7556032350363373741
+      pixellab-cute-wizard-1791798638985_44: -9030063336903658309
+      pixellab-cute-wizard-1791798638985_45: -8258415008046238903
+      pixellab-cute-wizard-1791798638985_46: -370119906314771131
+      pixellab-cute-wizard-1791798638985_47: 3997667846745545943
+      pixellab-cute-wizard-1791798638985_48: -4273982918982566751
+      pixellab-cute-wizard-1791798638985_49: -1446855805421033042
+      pixellab-cute-wizard-1791798638985_5: 4875150659082255145
+      pixellab-cute-wizard-1791798638985_50: -1975239027484148295
+      pixellab-cute-wizard-1791798638985_51: 209277970638093997
+      pixellab-cute-wizard-1791798638985_6: -8539794686176818300
+      pixellab-cute-wizard-1791798638985_7: 7152513416504556843
+      pixellab-cute-wizard-1791798638985_8: -3653171068236845206
+      pixellab-cute-wizard-1791798638985_9: 7039897031116629500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
