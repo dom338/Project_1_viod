@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3519658389932347969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7829734553060986510}
+  m_Layer: 0
+  m_Name: EnemyFirePoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7829734553060986510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3519658389932347969}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.01, y: 0.65, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2960241693312879816}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4755794023668600742
 GameObject:
   m_ObjectHideFlags: 0
@@ -17,6 +48,7 @@ GameObject:
   - component: {fileID: 4478304328113889871}
   - component: {fileID: 54668777718134712}
   - component: {fileID: 4289904507190268047}
+  - component: {fileID: 1653226353815110425}
   m_Layer: 0
   m_Name: EnemyShip
   m_TagString: Untagged
@@ -36,7 +68,8 @@ Transform:
   m_LocalPosition: {x: 4.2, y: -0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 7829734553060986510}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7907586027272199670
@@ -192,6 +225,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87e4758c0fa5812418ee848cb851bc4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  pathFinding: {fileID: 0}
+  navigationGrid: {fileID: 0}
+  shooting: {fileID: 0}
+  detectionRange: 10
+  loseTargetRange: 14
+  attackRange: 7
+  roamingWaitTime: 1
+  minimumDestinationDistance: 4
+  repathInterval: 0.75
 --- !u!114 &4478304328113889871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -206,6 +249,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 3
   rotationSpeed: 180
+  waypointDistance: 0.2
+  navigationGrid: {fileID: 0}
 --- !u!114 &54668777718134712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -233,3 +278,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   whiteFlashMat: {fileID: 2100000, guid: 5ea89623181d35f45937c21786d46341, type: 2}
   restoreMatTime: 0.2
+--- !u!114 &1653226353815110425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4755794023668600742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df510765bcba7ae429e8959643c42941, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 0}
+  firePoint: {fileID: 0}
+  fireRate: 1.5

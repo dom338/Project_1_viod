@@ -1,62 +1,148 @@
+
+using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyShipPathFinding : MonoBehaviour
 {
+    [Header("Movement")]
     [SerializeField] private float moveSpeed = 3f;
-    [SerializeField] private float rotationSpeed = 180f;
+    [SerializeField] private float rotationSpeed = 360f;
+    [SerializeField] private float waypointDistance = 0.2f;
+
+    [Header("Navigation")]
+    [SerializeField] private EnemyNavigationGrid navigationGrid;
 
     private Rigidbody2D RB;
     private Animator animator;
-    private Vector2 moveDir;
-    private Vector2 targetDirection = Vector2.up;
-    private float currentAngle = 90f;
 
+    private List<Vector2> path = new List<Vector2>();
+    private int pathIndex;
+    private float currentAngle;
+
+    public bool HasPath => pathIndex < path.Count;
 
     private void Awake()
     {
         RB = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+
+        currentAngle = transform.eulerAngles.z;
     }
 
     private void FixedUpdate()
     {
-        // Calcola l'angolo verso cui la nave deve girarsi.
-        float targetAngle = Mathf.Atan2(targetDirection.y, targetDirection.x) * Mathf.Rad2Deg;
-        currentAngle = Mathf.MoveTowardsAngle(currentAngle, targetAngle, rotationSpeed * Time.fixedDeltaTime);
+        if (!HasPath)
+        {
+            UpdateAnimation(false);
+            return;
+        }
 
-        // Ricava la direzione di movimento dall'angolo attuale.
-        Vector2 moveDir = new Vector2(Mathf.Cos(currentAngle * Mathf.Deg2Rad), Mathf.Sin(currentAngle * Mathf.Deg2Rad));
+        // Salta i waypoint già raggiunti.
+        while (HasPath)
+        {
+            Vector2 nextPoint = path[pathIndex];
 
-        RB.MovePosition(RB.position + moveDir * (moveSpeed * Time.fixedDeltaTime));
+            if (Vector2.Distance(RB.position, nextPoint) >
+                waypointDistance)
+            {
+                break;
+            }
 
-        UpdateAnimation();
+            pathIndex++;
+        }
+
+        if (!HasPath)
+        {
+            UpdateAnimation(false);
+            return;
+        }
+
+        Vector2 targetPoint = path[pathIndex];
+        Vector2 toPoint = targetPoint - RB.position;
+
+        if (toPoint.sqrMagnitude < 0.0001f)
+            return;
+
+        // Direzione verso il waypoint.
+        Vector2 moveDirection = toPoint.normalized;
+
+        // Aggiorna gradualmente l'orientamento dell'animazione.
+        float targetAngle =
+            Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg;
+
+        currentAngle = Mathf.MoveTowardsAngle(
+            currentAngle,
+            targetAngle,
+            rotationSpeed * Time.fixedDeltaTime
+        );
+
+        // Avanza direttamente verso il waypoint.
+        Vector2 newPosition = Vector2.MoveTowards(
+            RB.position,
+            targetPoint,
+            moveSpeed * Time.fixedDeltaTime
+        );
+
+        RB.MovePosition(newPosition);
+
+        UpdateAnimation(true);
     }
 
-    public void MoveTo(Vector2 direction)
+    public void SetDestination(Vector2 destination)
     {
-        if (direction.sqrMagnitude > 0.001f)
+        if (navigationGrid == null)
         {
-            targetDirection = direction.normalized;
+            Debug.LogError(
+                "EnemyNavigationGrid non assegnata!",
+                this
+            );
+            StopMoving();
+            return;
+        }
+
+        path = navigationGrid.FindPath(RB.position, destination);
+        pathIndex = 0;
+
+        if (path.Count == 0)
+        {
+            Debug.LogWarning(
+                "Nessun percorso trovato per la nave nemica.",
+                this
+            );
         }
     }
 
-    private void UpdateAnimation()
+    // Mantiene il metodo usato dal tuo script originale.
+    public void MoveTo(Vector2 targetPosition)
+    {
+        SetDestination(targetPosition);
+    }
+
+    public void StopMoving()
+    {
+        path.Clear();
+        pathIndex = 0;
+        UpdateAnimation(false);
+    }
+
+    private void UpdateAnimation(bool IsMoving)
     {
         if (animator == null)
             return;
 
-        // Arrotonda la direzione a uno degli 8 orientamenti.
-        float snappedAngle = Mathf.Round(currentAngle / 45f) * 45f;
+        // Otto direzioni: una ogni 45 gradi.
+        float snappedAngle =
+            Mathf.Round(currentAngle / 45f) * 45f;
 
-        Vector2 animationDirection = new Vector2(Mathf.Cos(snappedAngle * Mathf.Deg2Rad), Mathf.Sin(snappedAngle * Mathf.Deg2Rad)).normalized;
+        Vector2 direction = new Vector2(
+            Mathf.Cos(snappedAngle * Mathf.Deg2Rad),
+            Mathf.Sin(snappedAngle * Mathf.Deg2Rad)
+        ).normalized;
 
-        animator.SetFloat("InputX", animationDirection.x);
-        animator.SetFloat("InputY", animationDirection.y);
-
-        animator.SetFloat("LastInputX", animationDirection.x);
-        animator.SetFloat("LastInputY", animationDirection.y);
-
-        animator.SetBool("IsWalking", true);
-
+        animator.SetFloat("InputX", direction.x);
+        animator.SetFloat("InputY", direction.y);
+        animator.SetFloat("LastInputX", direction.x);
+        animator.SetFloat("LastInputY", direction.y);
+        animator.SetBool("IsMoving", IsMoving);
     }
 }

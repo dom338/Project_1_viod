@@ -143,6 +143,7 @@ GameObject:
   - component: {fileID: 200834804659750197}
   - component: {fileID: 4610024248639463654}
   - component: {fileID: 4649850251125299935}
+  - component: {fileID: 9135600396269809504}
   m_Layer: 3
   m_Name: PirateShip_0
   m_TagString: Player
@@ -353,3 +354,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd90c34295f7430469c997bb3826f9e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coins: 0
+--- !u!114 &9135600396269809504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7382190814370797457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41dcae72772a2a245b342ebf0a3d2a9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  max_Life: 10
+  current_Life: 0
