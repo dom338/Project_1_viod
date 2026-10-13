@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 81afcd48e58483f49a644d5920f27953
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2650644401227573023
+    second: Scogli_0
+  - first:
+      213: -8938868007852124848
+    second: Scogli_1
+  - first:
+      213: -7517371387303830235
+    second: Scogli_2
+  - first:
+      213: 3923806458836991483
+    second: Scogli_3
+  - first:
+      213: 2293075462037087264
+    second: Scogli_4
+  - first:
+      213: -6341335331787834777
+    second: Scogli_5
+  - first:
+      213: 6851382938722817020
+    second: Scogli_6
+  - first:
+      213: 2735262642585185703
+    second: Scogli_7
+  - first:
+      213: -4662165979779374044
+    second: Scogli_8
+  - first:
+      213: 2079311863797221740
+    second: Scogli_9
+  - first:
+      213: 347685658391488016
+    second: Scogli_10
+  - first:
+      213: 8207475055458423465
+    second: Scogli_11
+  - first:
+      213: 2764281598539938129
+    second: Scogli_12
+  - first:
+      213: 5593219466987294718
+    second: Scogli_13
+  - first:
+      213: -2921896877795165424
+    second: Scogli_14
+  - first:
+      213: -1454983933679597088
+    second: Scogli_15
+  - first:
+      213: 8301699454922362412
+    second: Scogli_16
+  - first:
+      213: 1928367778100301909
+    second: Scogli_17
+  - first:
+      213: 5507635354419062245
+    second: Scogli_18
+  - first:
+      213: -506220337317852409
+    second: Scogli_19
+  - first:
+      213: -2219291300161306503
+    second: Scogli_20
+  - first:
+      213: 7437177987643886491
+    second: Scogli_21
+  - first:
+      213: -565960310752332871
+    second: Scogli_22
+  - first:
+      213: -5327936666853237430
+    second: Scogli_23
+  - first:
+      213: 8563385750819883945
+    second: Scogli_24
+  - first:
+      213: -2061377919192979788
+    second: Scogli_25
+  - first:
+      213: -4378063775650639827
+    second: Scogli_26
+  - first:
+      213: -1840678694721885122
+    second: Scogli_27
+  - first:
+      213: -311167799506532176
+    second: Scogli_28
+  - first:
+      213: -4587965759500920102
+    second: Scogli_29
+  - first:
+      213: -6080452703914639147
+    second: Scogli_30
+  - first:
+      213: 3718427045803464743
+    second: Scogli_31
+  - first:
+      213: -5922636564854477888
+    second: Scogli_32
+  - first:
+      213: 5924400802780190861
+    second: Scogli_33
+  - first:
+      213: -2155259254269694040
+    second: Scogli_34
+  - first:
+      213: 1360288117590388529
+    second: Scogli_35
+  - first:
+      213: 709985938142013735
+    second: Scogli_36
+  - first:
+      213: -2223266391997969916
+    second: Scogli_37
+  - first:
+      213: -1620224424188742742
+    second: Scogli_38
+  - first:
+      213: 5724225174955861521
+    second: Scogli_39
+  - first:
+      213: -3558695740126579593
+    second: Scogli_40
+  - first:
+      213: -7980907997235952375
+    second: Scogli_41
+  - first:
+      213: 2075014943821082201
+    second: Scogli_42
+  - first:
+      213: -7447957371615137074
+    second: Scogli_43
+  - first:
+      213: -3558317752520256445
+    second: Scogli_44
+  - first:
+      213: -7534567331767699909
+    second: Scogli_45
+  - first:
+      213: 8871820639505371788
+    second: Scogli_46
+  - first:
+      213: 5469473423892025164
+    second: Scogli_47
+  - first:
+      213: -2631639226807119861
+    second: Scogli_48
+  - first:
+      213: -8937090977492611614
+    second: Scogli_49
+  - first:
+      213: 918646325422591962
+    second: Scogli_50
+  - first:
+      213: -8552765311528640169
+    second: Scogli_51
+  - first:
+      213: -4657205090462130120
+    second: Scogli_52
+  - first:
+      213: -2249992801795290345
+    second: Scogli_53
+  - first:
+      213: -1886460076550964627
+    second: Scogli_54
+  - first:
+      213: 9023369911915237086
+    second: Scogli_55
+  - first:
+      213: -2146239842092543457
+    second: Scogli_56
+  - first:
+      213: -1234893094910895511
+    second: Scogli_57
+  - first:
+      213: -6243763912863929268
+    second: Scogli_58
+  - first:
+      213: 3836960229503790843
+    second: Scogli_59
+  - first:
+      213: -8012763093031374337
+    second: Scogli_60
+  - first:
+      213: 5578817613019738782
+    second: Scogli_61
+  - first:
+      213: -8252664082130060689
+    second: Scogli_62
+  - first:
+      213: 7441619864351548402
+    second: Scogli_63
+  - first:
+      213: -3656774042069946823
+    second: Scogli_64
+  - first:
+      213: -36347190564235998
+    second: Scogli_65
+  - first:
+      213: -7446549598603361426
+    second: Scogli_66
+  - first:
+      213: -3222241672105545811
+    second: Scogli_67
+  - first:
+      213: -7463680516583115464
+    second: Scogli_68
+  - first:
+      213: 4866195976420115162
+    second: Scogli_69
+  - first:
+      213: 5205313852306523409
+    second: Scogli_70
+  - first:
+      213: -2775685653450536803
+    second: Scogli_71
+  - first:
+      213: 6322266590447143359
+    second: Scogli_72
+  - first:
+      213: 2655831968864387748
+    second: Scogli_73
+  - first:
+      213: 1731205082245967765
+    second: Scogli_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scogli_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172c090a0bf8c420800000000000000
+      internalID: 2650644401227573023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 226
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ded138e2c2f380800000000000000
+      internalID: -8938868007852124848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd11f4d8eeca790800000000000000
+      internalID: -7517371387303830235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdbc526f29247630800000000000000
+      internalID: 3923806458836991483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 236
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024a2e5cbf3a2df10800000000000000
+      internalID: 2293075462037087264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76af6231d1d0ff7a0800000000000000
+      internalID: -6341335331787834777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3deba8b70051f50800000000000000
+      internalID: 6851382938722817020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 226
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adafa2a1ea95f520800000000000000
+      internalID: 2735262642585185703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 226
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424e65b1eb8ac4fb0800000000000000
+      internalID: -4662165979779374044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 228
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6983ea9f133bdc10800000000000000
+      internalID: 2079311863797221740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0162ce1a34a33d400800000000000000
+      internalID: 347685658391488016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29a7fe31fc6e170800000000000000
+      internalID: 8207475055458423465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1593f14d773bc5620800000000000000
+      internalID: 2764281598539938129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effc398987b1f9d40800000000000000
+      internalID: 5593219466987294718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 201
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b32b045465377d0800000000000000
+      internalID: -2921896877795165424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9802732dbdecbe0800000000000000
+      internalID: -1454983933679597088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 196
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e83b28baf853370800000000000000
+      internalID: 8301699454922362412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505af9f640f2ca10800000000000000
+      internalID: 1928367778100301909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e7849c2d0f6c40800000000000000
+      internalID: 5507635354419062245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b4718094b89f8f0800000000000000
+      internalID: -506220337317852409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97045c0225e7331e0800000000000000
+      internalID: -2219291300161306503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4ed4d9f9263760800000000000000
+      internalID: 7437177987643886491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b333a0981e4528f0800000000000000
+      internalID: -565960310752332871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d1f6284dd5f06b0800000000000000
+      internalID: -5327936666853237430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abc24838f147d670800000000000000
+      internalID: 8563385750819883945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 163
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62ba244b38463e0800000000000000
+      internalID: -2061377919192979788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d209658213efd33c0800000000000000
+      internalID: -4378063775650639827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ce87fba789476e0800000000000000
+      internalID: -1840678694721885122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88fd4f8828eabf0800000000000000
+      internalID: -311167799506532176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 131
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adada4723754450c0800000000000000
+      internalID: -4587965759500920102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0ca9d3b74ed9ba0800000000000000
+      internalID: -6080452703914639147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728125472b18a9330800000000000000
+      internalID: 3718427045803464743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbeb1a7c619ecda0800000000000000
+      internalID: -5922636564854477888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8890cc2423b73250800000000000000
+      internalID: 5924400802780190861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_34
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 136
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa166902bf612e0800000000000000
+      internalID: -2155259254269694040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 132
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fe829f5d6b0e210800000000000000
+      internalID: 1360288117590388529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7292a76f2706ad900800000000000000
+      internalID: 709985938142013735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a85efeefe5521e0800000000000000
+      internalID: -2223266391997969916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 99
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa371d3787ec389e0800000000000000
+      internalID: -1620224424188742742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a797e778807f40800000000000000
+      internalID: 5724225174955861521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 113
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743f024419fc9ec0800000000000000
+      internalID: -3558695740126579593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 108
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054daf067e1e3190800000000000000
+      internalID: -7980907997235952375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2516f81febcc10800000000000000
+      internalID: 2075014943821082201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 98
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b0a24b3a83a890800000000000000
+      internalID: -7447957371615137074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344501b5bd05e9ec0800000000000000
+      internalID: -3558317752520256445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_45
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 98
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3639bd7ee6df6790800000000000000
+      internalID: -7534567331767699909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8252b0edd90f1b70800000000000000
+      internalID: 8871820639505371788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f068bb91977eb40800000000000000
+      internalID: 5469473423892025164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b009d25f01a8a7bd0800000000000000
+      internalID: -2631639226807119861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed44315b1319f380800000000000000
+      internalID: -8937090977492611614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 69
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf080d37ffafbc00800000000000000
+      internalID: 918646325422591962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 79
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7516d0f73497e4980800000000000000
+      internalID: -8552765311528640169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8302dd825a84e5fb0800000000000000
+      internalID: -4657205090462130120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b4ecdb77b66c0e0800000000000000
+      internalID: -2249992801795290345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a39362e82f1d5e0800000000000000
+      internalID: -1886460076550964627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edec7a48023793d70800000000000000
+      internalID: 9023369911915237086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1298412c360732e0800000000000000
+      internalID: -2146239842092543457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ad04ed547ccdee0800000000000000
+      internalID: -1234893094910895511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ca7585dc1b959a0800000000000000
+      internalID: -6243763912863929268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeefd8effe9f3530800000000000000
+      internalID: 3836960229503790843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1318a9b62fcc090800000000000000
+      internalID: -8012763093031374337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92fbbaaf01fb6d40800000000000000
+      internalID: 5578817613019738782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a3306edb5a87d80800000000000000
+      internalID: -8252664082130060689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 34
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f32a28d6d1f54760800000000000000
+      internalID: 7441619864351548402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 34
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e2d861267804dc0800000000000000
+      internalID: -3656774042069946823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225d5d93c6ede7ff0800000000000000
+      internalID: -36347190564235998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 34
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e634be4f79a88a890800000000000000
+      internalID: -7446549598603361426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf20b9754c4843d0800000000000000
+      internalID: -3222241672105545811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353f0c4d1eab6890800000000000000
+      internalID: -7463680516583115464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2c4f55573388340800000000000000
+      internalID: 4866195976420115162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_70
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1158627ae5dfc3840800000000000000
+      internalID: 5205313852306523409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98cee9ba98ca79d0800000000000000
+      internalID: -2775685653450536803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90cea97f33db750800000000000000
+      internalID: 6322266590447143359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2c94fba196bd420800000000000000
+      internalID: 2655831968864387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scogli_74
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2f9899d9760810800000000000000
+      internalID: 1731205082245967765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scogli_0: 2650644401227573023
+      Scogli_1: -8938868007852124848
+      Scogli_10: 347685658391488016
+      Scogli_11: 8207475055458423465
+      Scogli_12: 2764281598539938129
+      Scogli_13: 5593219466987294718
+      Scogli_14: -2921896877795165424
+      Scogli_15: -1454983933679597088
+      Scogli_16: 8301699454922362412
+      Scogli_17: 1928367778100301909
+      Scogli_18: 5507635354419062245
+      Scogli_19: -506220337317852409
+      Scogli_2: -7517371387303830235
+      Scogli_20: -2219291300161306503
+      Scogli_21: 7437177987643886491
+      Scogli_22: -565960310752332871
+      Scogli_23: -5327936666853237430
+      Scogli_24: 8563385750819883945
+      Scogli_25: -2061377919192979788
+      Scogli_26: -4378063775650639827
+      Scogli_27: -1840678694721885122
+      Scogli_28: -311167799506532176
+      Scogli_29: -4587965759500920102
+      Scogli_3: 3923806458836991483
+      Scogli_30: -6080452703914639147
+      Scogli_31: 3718427045803464743
+      Scogli_32: -5922636564854477888
+      Scogli_33: 5924400802780190861
+      Scogli_34: -2155259254269694040
+      Scogli_35: 1360288117590388529
+      Scogli_36: 709985938142013735
+      Scogli_37: -2223266391997969916
+      Scogli_38: -1620224424188742742
+      Scogli_39: 5724225174955861521
+      Scogli_4: 2293075462037087264
+      Scogli_40: -3558695740126579593
+      Scogli_41: -7980907997235952375
+      Scogli_42: 2075014943821082201
+      Scogli_43: -7447957371615137074
+      Scogli_44: -3558317752520256445
+      Scogli_45: -7534567331767699909
+      Scogli_46: 8871820639505371788
+      Scogli_47: 5469473423892025164
+      Scogli_48: -2631639226807119861
+      Scogli_49: -8937090977492611614
+      Scogli_5: -6341335331787834777
+      Scogli_50: 918646325422591962
+      Scogli_51: -8552765311528640169
+      Scogli_52: -4657205090462130120
+      Scogli_53: -2249992801795290345
+      Scogli_54: -1886460076550964627
+      Scogli_55: 9023369911915237086
+      Scogli_56: -2146239842092543457
+      Scogli_57: -1234893094910895511
+      Scogli_58: -6243763912863929268
+      Scogli_59: 3836960229503790843
+      Scogli_6: 6851382938722817020
+      Scogli_60: -8012763093031374337
+      Scogli_61: 5578817613019738782
+      Scogli_62: -8252664082130060689
+      Scogli_63: 7441619864351548402
+      Scogli_64: -3656774042069946823
+      Scogli_65: -36347190564235998
+      Scogli_66: -7446549598603361426
+      Scogli_67: -3222241672105545811
+      Scogli_68: -7463680516583115464
+      Scogli_69: 4866195976420115162
+      Scogli_7: 2735262642585185703
+      Scogli_70: 5205313852306523409
+      Scogli_71: -2775685653450536803
+      Scogli_72: 6322266590447143359
+      Scogli_73: 2655831968864387748
+      Scogli_74: 1731205082245967765
+      Scogli_8: -4662165979779374044
+      Scogli_9: 2079311863797221740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
