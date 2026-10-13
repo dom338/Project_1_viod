@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: df0f5cdbed5765c4ab5fc8f6fb90ba99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4103171500792248509
+    second: collisionsparkgreen_0
+  - first:
+      213: -2093701219642384277
+    second: collisionsparkgreen_1
+  - first:
+      213: 2363272393479776044
+    second: collisionsparkgreen_2
+  - first:
+      213: -4450418254954466049
+    second: collisionsparkgreen_3
+  - first:
+      213: -3606013307566557135
+    second: collisionsparkgreen_4
+  - first:
+      213: -1362521743396853915
+    second: collisionsparkgreen_5
+  - first:
+      213: -8774316117707169008
+    second: collisionsparkgreen_6
+  - first:
+      213: -2251231031656336503
+    second: collisionsparkgreen_7
+  - first:
+      213: 1585131715023641636
+    second: collisionsparkgreen_8
+  - first:
+      213: -1403383345054389381
+    second: collisionsparkgreen_9
+  - first:
+      213: 3430381948440754536
+    second: collisionsparkgreen_10
+  - first:
+      213: -8143172854802020558
+    second: collisionsparkgreen_11
+  - first:
+      213: 3940854171299998694
+    second: collisionsparkgreen_12
+  - first:
+      213: -8679528097990182770
+    second: collisionsparkgreen_13
+  - first:
+      213: 1051967513919478329
+    second: collisionsparkgreen_14
+  - first:
+      213: -3495015438093113733
+    second: collisionsparkgreen_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: collisionsparkgreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 324
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34785c2724b9e07c0800000000000000
+      internalID: -4103171500792248509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 108
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e96965dda1f2e0800000000000000
+      internalID: -2093701219642384277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2769d088b70cc020800000000000000
+      internalID: 2363272393479776044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 142
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4768b2d20fc32c0800000000000000
+      internalID: -4450418254954466049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138f923900ed4fdc0800000000000000
+      internalID: -3606013307566557135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567a51e71b9571de0800000000000000
+      internalID: -1362521743396853915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0136411bafd5b3680800000000000000
+      internalID: -8774316117707169008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b9c2ed4502c0e0800000000000000
+      internalID: -2251231031656336503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c903c75e48ff510800000000000000
+      internalID: 1585131715023641636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b655a784e268ce0800000000000000
+      internalID: -1403383345054389381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86939b8053a2b9f20800000000000000
+      internalID: 3430381948440754536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2370ce4de63adfe80800000000000000
+      internalID: -8143172854802020558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe3ff3df9b0b630800000000000000
+      internalID: 3940854171299998694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f5455e2f1c8780800000000000000
+      internalID: -8679528097990182770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93adb6e51e6599e00800000000000000
+      internalID: 1051967513919478329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkgreen_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7624f7f9f53f7fc0800000000000000
+      internalID: -3495015438093113733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      collisionsparkgreen_0: -4103171500792248509
+      collisionsparkgreen_1: -2093701219642384277
+      collisionsparkgreen_10: 3430381948440754536
+      collisionsparkgreen_11: -8143172854802020558
+      collisionsparkgreen_12: 3940854171299998694
+      collisionsparkgreen_13: -8679528097990182770
+      collisionsparkgreen_14: 1051967513919478329
+      collisionsparkgreen_15: -3495015438093113733
+      collisionsparkgreen_2: 2363272393479776044
+      collisionsparkgreen_3: -4450418254954466049
+      collisionsparkgreen_4: -3606013307566557135
+      collisionsparkgreen_5: -1362521743396853915
+      collisionsparkgreen_6: -8774316117707169008
+      collisionsparkgreen_7: -2251231031656336503
+      collisionsparkgreen_8: 1585131715023641636
+      collisionsparkgreen_9: -1403383345054389381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

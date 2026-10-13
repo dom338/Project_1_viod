@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: f57d97f16d8505649a13682d87151e32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3900620170216158724
+    second: whitehotbig_0
+  - first:
+      213: -4816091973985560623
+    second: whitehotbig_1
+  - first:
+      213: -5949415410969338312
+    second: whitehotbig_2
+  - first:
+      213: 701092688894435693
+    second: whitehotbig_3
+  - first:
+      213: -1451140181537161940
+    second: whitehotbig_4
+  - first:
+      213: 6613239165964572357
+    second: whitehotbig_5
+  - first:
+      213: 5177316837125125831
+    second: whitehotbig_6
+  - first:
+      213: -1564804518101637656
+    second: whitehotbig_7
+  - first:
+      213: -2667143379364596529
+    second: whitehotbig_8
+  - first:
+      213: -8345496150801854896
+    second: whitehotbig_9
+  - first:
+      213: 5331618428624879653
+    second: whitehotbig_10
+  - first:
+      213: -200943017334006350
+    second: whitehotbig_11
+  - first:
+      213: -470662730151972973
+    second: whitehotbig_12
+  - first:
+      213: 5885848213272088415
+    second: whitehotbig_13
+  - first:
+      213: 1778750874101327712
+    second: whitehotbig_14
+  - first:
+      213: 4743626819297732723
+    second: whitehotbig_15
+  - first:
+      213: 6061309000308369968
+    second: whitehotbig_16
+  - first:
+      213: -3505462875650055699
+    second: whitehotbig_17
+  - first:
+      213: -4739551053963598332
+    second: whitehotbig_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitehotbig_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9ca8e1f963ed9c0800000000000000
+      internalID: -3900620170216158724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71bfccdddc92db0800000000000000
+      internalID: -4816091973985560623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e10ff743e6f6da0800000000000000
+      internalID: -5949415410969338312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d612d240618cab900800000000000000
+      internalID: 701092688894435693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d7e2081b38cdbe0800000000000000
+      internalID: -1451140181537161940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d406abf1f6cb50800000000000000
+      internalID: 6613239165964572357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6fd769b3689d740800000000000000
+      internalID: 5177316837125125831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 73
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e520abd492b84ae0800000000000000
+      internalID: -1564804518101637656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 72
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc430f34a376cfad0800000000000000
+      internalID: -2667143379364596529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 70
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec0199777de2c80800000000000000
+      internalID: -8345496150801854896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 70
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520cc1476b6bdf940800000000000000
+      internalID: 5331618428624879653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd16bfe36b163df0800000000000000
+      internalID: -200943017334006350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa6489dbed779f0800000000000000
+      internalID: -470662730151972973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f43f1f3cbbea150800000000000000
+      internalID: 5885848213272088415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067a9baee746fa810800000000000000
+      internalID: 1778750874101327712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 42
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378e147957fb4d140800000000000000
+      internalID: 4743626819297732723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 45
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a224deb681e1450800000000000000
+      internalID: 6061309000308369968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 17
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de12f8b56181a5fc0800000000000000
+      internalID: -3505462875650055699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotbig_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406eba97d6bb93eb0800000000000000
+      internalID: -4739551053963598332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whitehotbig_0: -3900620170216158724
+      whitehotbig_1: -4816091973985560623
+      whitehotbig_10: 5331618428624879653
+      whitehotbig_11: -200943017334006350
+      whitehotbig_12: -470662730151972973
+      whitehotbig_13: 5885848213272088415
+      whitehotbig_14: 1778750874101327712
+      whitehotbig_15: 4743626819297732723
+      whitehotbig_16: 6061309000308369968
+      whitehotbig_17: -3505462875650055699
+      whitehotbig_18: -4739551053963598332
+      whitehotbig_2: -5949415410969338312
+      whitehotbig_3: 701092688894435693
+      whitehotbig_4: -1451140181537161940
+      whitehotbig_5: 6613239165964572357
+      whitehotbig_6: 5177316837125125831
+      whitehotbig_7: -1564804518101637656
+      whitehotbig_8: -2667143379364596529
+      whitehotbig_9: -8345496150801854896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

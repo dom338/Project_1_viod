@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 84c56174a075a4249bfe1ab16c5cb307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8901902042605049989
+    second: impact_verticalring_0
+  - first:
+      213: 3215993613165588093
+    second: impact_verticalring_1
+  - first:
+      213: -7441909921033462642
+    second: impact_verticalring_2
+  - first:
+      213: -5157918070631148419
+    second: impact_verticalring_3
+  - first:
+      213: 3009860061645732717
+    second: impact_verticalring_4
+  - first:
+      213: 5528814207939005615
+    second: impact_verticalring_5
+  - first:
+      213: -8314246517557811889
+    second: impact_verticalring_6
+  - first:
+      213: 8075607595373766214
+    second: impact_verticalring_7
+  - first:
+      213: 8754195250879088865
+    second: impact_verticalring_8
+  - first:
+      213: -745606404211486823
+    second: impact_verticalring_9
+  - first:
+      213: -1491010980777404352
+    second: impact_verticalring_10
+  - first:
+      213: 2213640222236051869
+    second: impact_verticalring_11
+  - first:
+      213: -5781456742711882996
+    second: impact_verticalring_12
+  - first:
+      213: 6764156406162727975
+    second: impact_verticalring_13
+  - first:
+      213: 3374629632022782147
+    second: impact_verticalring_14
+  - first:
+      213: -1380258467916637618
+    second: impact_verticalring_15
+  - first:
+      213: 6204112692982281637
+    second: impact_verticalring_16
+  - first:
+      213: -6225276791253424038
+    second: impact_verticalring_17
+  - first:
+      213: 8976611716619160781
+    second: impact_verticalring_18
+  - first:
+      213: -512507683943170270
+    second: impact_verticalring_19
+  - first:
+      213: 288149784765896243
+    second: impact_verticalring_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: impact_verticalring_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5885cc25eb8e98b70800000000000000
+      internalID: 8901902042605049989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 176
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee8a0f62181ac20800000000000000
+      internalID: 3215993613165588093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c58521b5609b890800000000000000
+      internalID: -7441909921033462642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d745673b7d46b68b0800000000000000
+      internalID: -5157918070631148419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b770677cb25c920800000000000000
+      internalID: 3009860061645732717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 115
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac465daa3b4abc40800000000000000
+      internalID: 5528814207939005615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 97
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4520f1d7dcdd9c80800000000000000
+      internalID: -8314246517557811889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64623b35252521070800000000000000
+      internalID: 8075607595373766214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 104
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e84f0fe2362d7970800000000000000
+      internalID: 8754195250879088865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fc7befce217a5f0800000000000000
+      internalID: -745606404211486823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485e86a96dde4be0800000000000000
+      internalID: -1491010980777404352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 82
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9985e2cd0e68be10800000000000000
+      internalID: 2213640222236051869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b0f5659b324cfa0800000000000000
+      internalID: -5781456742711882996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 61
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242382d96c1fdd50800000000000000
+      internalID: 6764156406162727975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0a93155c715de20800000000000000
+      internalID: 3374629632022782147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 26
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a9a918c3658dce0800000000000000
+      internalID: -1380258467916637618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a573bb9f9f691650800000000000000
+      internalID: 6204112692982281637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a582bd4cdbf5b99a0800000000000000
+      internalID: -6225276791253424038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc1bfcbc4539c70800000000000000
+      internalID: 8976611716619160781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fb8e11af433e8f0800000000000000
+      internalID: -512507683943170270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact_verticalring_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336931bd3b6bff300800000000000000
+      internalID: 288149784765896243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      impact_verticalring_0: 8901902042605049989
+      impact_verticalring_1: 3215993613165588093
+      impact_verticalring_10: -1491010980777404352
+      impact_verticalring_11: 2213640222236051869
+      impact_verticalring_12: -5781456742711882996
+      impact_verticalring_13: 6764156406162727975
+      impact_verticalring_14: 3374629632022782147
+      impact_verticalring_15: -1380258467916637618
+      impact_verticalring_16: 6204112692982281637
+      impact_verticalring_17: -6225276791253424038
+      impact_verticalring_18: 8976611716619160781
+      impact_verticalring_19: -512507683943170270
+      impact_verticalring_2: -7441909921033462642
+      impact_verticalring_20: 288149784765896243
+      impact_verticalring_3: -5157918070631148419
+      impact_verticalring_4: 3009860061645732717
+      impact_verticalring_5: 5528814207939005615
+      impact_verticalring_6: -8314246517557811889
+      impact_verticalring_7: 8075607595373766214
+      impact_verticalring_8: 8754195250879088865
+      impact_verticalring_9: -745606404211486823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

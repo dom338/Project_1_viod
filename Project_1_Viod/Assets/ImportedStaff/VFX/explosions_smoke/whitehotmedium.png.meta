@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: ed14de9311109e2488d62780a27e7dd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -38492149952826185
+    second: whitehotmedium_0
+  - first:
+      213: 3741466831276872688
+    second: whitehotmedium_1
+  - first:
+      213: 7046189081828393344
+    second: whitehotmedium_2
+  - first:
+      213: 6454694367209531560
+    second: whitehotmedium_3
+  - first:
+      213: 4616293682258540120
+    second: whitehotmedium_4
+  - first:
+      213: 7215033696312152442
+    second: whitehotmedium_5
+  - first:
+      213: -3177881759092014995
+    second: whitehotmedium_6
+  - first:
+      213: 6028662112116211433
+    second: whitehotmedium_7
+  - first:
+      213: 3947699220527127645
+    second: whitehotmedium_8
+  - first:
+      213: 5514337508063713474
+    second: whitehotmedium_9
+  - first:
+      213: -697502572703013193
+    second: whitehotmedium_10
+  - first:
+      213: 5898717857226733730
+    second: whitehotmedium_11
+  - first:
+      213: -1850280421217885751
+    second: whitehotmedium_12
+  - first:
+      213: 5831541571454240743
+    second: whitehotmedium_13
+  - first:
+      213: -411954320831205491
+    second: whitehotmedium_14
+  - first:
+      213: 1137052219418395874
+    second: whitehotmedium_15
+  - first:
+      213: -1799689245081926316
+    second: whitehotmedium_16
+  - first:
+      213: 6030256344424958909
+    second: whitehotmedium_17
+  - first:
+      213: 1585043037699720640
+    second: whitehotmedium_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitehotmedium_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4bb63f79f377ff0800000000000000
+      internalID: -38492149952826185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f31a29824c5ce330800000000000000
+      internalID: 3741466831276872688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810e9a33a719c160800000000000000
+      internalID: 7046189081828393344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a82d3b145ea39950800000000000000
+      internalID: 6454694367209531560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85676e555ae501040800000000000000
+      internalID: 4616293682258540120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d82f7be2f02460800000000000000
+      internalID: 7215033696312152442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 29
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6080239065e5e3d0800000000000000
+      internalID: -3177881759092014995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eefa8fef3c1aa350800000000000000
+      internalID: 6028662112116211433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c1b97768b09c630800000000000000
+      internalID: 3947699220527127645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 31
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c810c35fbcd68c40800000000000000
+      internalID: 5514337508063713474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6ad1c0b19f156f0800000000000000
+      internalID: -697502572703013193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b04e63a47cd150800000000000000
+      internalID: 5898717857226733730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a27692cb7256e0800000000000000
+      internalID: -1850280421217885751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70473992ccde050800000000000000
+      internalID: 5831541571454240743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2b235ab1784af0800000000000000
+      internalID: -411954320831205491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c08d18fe97cf00800000000000000
+      internalID: 1137052219418395874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4550dc0ba283607e0800000000000000
+      internalID: -1799689245081926316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbcef11236cfa350800000000000000
+      internalID: 6030256344424958909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitehotmedium_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c54ccfae343ff510800000000000000
+      internalID: 1585043037699720640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whitehotmedium_0: -38492149952826185
+      whitehotmedium_1: 3741466831276872688
+      whitehotmedium_10: -697502572703013193
+      whitehotmedium_11: 5898717857226733730
+      whitehotmedium_12: -1850280421217885751
+      whitehotmedium_13: 5831541571454240743
+      whitehotmedium_14: -411954320831205491
+      whitehotmedium_15: 1137052219418395874
+      whitehotmedium_16: -1799689245081926316
+      whitehotmedium_17: 6030256344424958909
+      whitehotmedium_18: 1585043037699720640
+      whitehotmedium_2: 7046189081828393344
+      whitehotmedium_3: 6454694367209531560
+      whitehotmedium_4: 4616293682258540120
+      whitehotmedium_5: 7215033696312152442
+      whitehotmedium_6: -3177881759092014995
+      whitehotmedium_7: 6028662112116211433
+      whitehotmedium_8: 3947699220527127645
+      whitehotmedium_9: 5514337508063713474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

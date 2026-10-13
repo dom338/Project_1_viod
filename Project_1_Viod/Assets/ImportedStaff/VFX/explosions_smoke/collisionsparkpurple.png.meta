@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 6f0dee3cadc05ce4da981e042dd5f37b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1347639014737872768
+    second: collisionsparkpurple_0
+  - first:
+      213: 1853078569772848150
+    second: collisionsparkpurple_1
+  - first:
+      213: -8984476052183880504
+    second: collisionsparkpurple_2
+  - first:
+      213: 522679166738434326
+    second: collisionsparkpurple_3
+  - first:
+      213: 1635061729586632893
+    second: collisionsparkpurple_4
+  - first:
+      213: -6369724987009698857
+    second: collisionsparkpurple_5
+  - first:
+      213: -1177346967325838535
+    second: collisionsparkpurple_6
+  - first:
+      213: -3763631557008092122
+    second: collisionsparkpurple_7
+  - first:
+      213: -8566229629962737392
+    second: collisionsparkpurple_8
+  - first:
+      213: -3646968095569350820
+    second: collisionsparkpurple_9
+  - first:
+      213: -5488963665163785446
+    second: collisionsparkpurple_10
+  - first:
+      213: -7949491326316031043
+    second: collisionsparkpurple_11
+  - first:
+      213: -3629955289527214225
+    second: collisionsparkpurple_12
+  - first:
+      213: 505697747235502093
+    second: collisionsparkpurple_13
+  - first:
+      213: -1046222323940606936
+    second: collisionsparkpurple_14
+  - first:
+      213: 921374249652055502
+    second: collisionsparkpurple_15
+  - first:
+      213: 1071637103454533325
+    second: collisionsparkpurple_16
+  - first:
+      213: -8915130826168457270
+    second: collisionsparkpurple_17
+  - first:
+      213: 8018829581172333516
+    second: collisionsparkpurple_18
+  - first:
+      213: -5898153257110692783
+    second: collisionsparkpurple_19
+  - first:
+      213: 2076323943057920037
+    second: collisionsparkpurple_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: collisionsparkpurple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 5
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887719c4793c4de0800000000000000
+      internalID: -1347639014737872768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141334242577b910800000000000000
+      internalID: 1853078569772848150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6390e1aab05380800000000000000
+      internalID: -8984476052183880504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 29
+        width: 293
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61901f0deede04700800000000000000
+      internalID: 522679166738434326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 142
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d8d9eaf7e0b610800000000000000
+      internalID: 1635061729586632893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d37b506fd03a97a0800000000000000
+      internalID: -6369724987009698857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 108
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f82bcb2939afe0800000000000000
+      internalID: -1177346967325838535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624151b1a05e4cbc0800000000000000
+      internalID: -3763631557008092122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 142
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01925a19983ae1980800000000000000
+      internalID: -8566229629962737392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe76ce6dd536dc0800000000000000
+      internalID: -3646968095569350820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be2e8d0a843d3b0800000000000000
+      internalID: -5488963665163785446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db352e5c1cbbda190800000000000000
+      internalID: -7949491326316031043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f1e2185eecf9dc0800000000000000
+      internalID: -3629955289527214225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08ffabfb69940700800000000000000
+      internalID: 505697747235502093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cbf69e6521b71f0800000000000000
+      internalID: -1046222323940606936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde3b79ff069cc00800000000000000
+      internalID: 921374249652055502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6398f84483fde00800000000000000
+      internalID: 1071637103454533325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7281c7fb7174480800000000000000
+      internalID: -8915130826168457270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbdb2cb40b984f60800000000000000
+      internalID: 8018829581172333516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9a17ccdc852ea0800000000000000
+      internalID: -5898153257110692783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collisionsparkpurple_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201b9810a590dc10800000000000000
+      internalID: 2076323943057920037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      collisionsparkpurple_0: -1347639014737872768
+      collisionsparkpurple_1: 1853078569772848150
+      collisionsparkpurple_10: -5488963665163785446
+      collisionsparkpurple_11: -7949491326316031043
+      collisionsparkpurple_12: -3629955289527214225
+      collisionsparkpurple_13: 505697747235502093
+      collisionsparkpurple_14: -1046222323940606936
+      collisionsparkpurple_15: 921374249652055502
+      collisionsparkpurple_16: 1071637103454533325
+      collisionsparkpurple_17: -8915130826168457270
+      collisionsparkpurple_18: 8018829581172333516
+      collisionsparkpurple_19: -5898153257110692783
+      collisionsparkpurple_2: -8984476052183880504
+      collisionsparkpurple_20: 2076323943057920037
+      collisionsparkpurple_3: 522679166738434326
+      collisionsparkpurple_4: 1635061729586632893
+      collisionsparkpurple_5: -6369724987009698857
+      collisionsparkpurple_6: -1177346967325838535
+      collisionsparkpurple_7: -3763631557008092122
+      collisionsparkpurple_8: -8566229629962737392
+      collisionsparkpurple_9: -3646968095569350820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
