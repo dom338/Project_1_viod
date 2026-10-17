@@ -1,35 +1,61 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using TMPro;
 
 
-
-public class HoverButton : MonoBehaviour
+public class HoverButton : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
+    public TextMeshProUGUI textMeshPro;
 
-    [SerializeField] private Image buttonImage;
-    [SerializeField] private Color hoverColor = new Color(1f, 0.82f, 0.4f, 1f);
-
-    private Color originalColor;
-    private Color TargetColor;
+    [SerializeField] private Color StarterColor;
+    [SerializeField] private Color huverColor;
+    [SerializeField] private AudioClip huverSound;
+    [SerializeField] private AudioSource audioSource;
 
     private void Awake()
     {
-        buttonImage = GetComponent<Image>();
+        if (textMeshPro == null)
+        {
+            textMeshPro = GetComponent<TextMeshProUGUI>();
+        }
+        if (audioSource == null)
+        {
+            audioSource = GetComponent<AudioSource>();
+        }
+    }
 
-        originalColor = buttonImage.color;
-
-        TargetColor = originalColor;
+    private void Start()
+    {
+        if (textMeshPro != null)
+        {
+            textMeshPro.color = StarterColor;
+        }
+        else
+        {
+            Debug.Log("no text found");
+        }
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        TargetColor = hoverColor;
+        textMeshPro.color = huverColor;
+
+        if (huverSound != null)
+        {
+            if (audioSource != null)
+            {
+                audioSource.PlayOneShot(huverSound);
+            }
+            else
+            {
+                Debug.Log("audiosource not found");
+            }
+        }
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        TargetColor = originalColor;
+        textMeshPro.color = StarterColor;
     }
 
 
