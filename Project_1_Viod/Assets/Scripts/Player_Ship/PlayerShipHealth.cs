@@ -19,7 +19,7 @@ public class PlayerShipHealth : MonoBehaviour
         }
     }
 
-    private void ApplyDamage(int damage)
+    public void ApplyDamage(int damage)
     {
         current_Life -= damage;
 
