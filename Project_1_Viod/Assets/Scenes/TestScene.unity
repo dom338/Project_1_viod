@@ -575,8 +575,12 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 617977124622313376, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
-      propertyPath: m_AngularDamping
+      propertyPath: m_LinearDamping
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 617977124622313376, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
+      propertyPath: m_AngularDamping
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3555191271720554372, guid: 07451f2bb52aabb40a7e948af6a45f20, type: 3}
       propertyPath: m_SortingLayer
