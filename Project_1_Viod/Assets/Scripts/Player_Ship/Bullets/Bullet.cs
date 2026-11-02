@@ -9,6 +9,7 @@ public class Bullet : MonoBehaviour
     private Vector2 direction;
     private Vector2 shipVelocity;
 
+    public LayerMask layerMask;
 
     public void SetDirection(Vector2 newDirection, Vector2 newShipVelocity)
     {
@@ -36,6 +37,15 @@ public class Bullet : MonoBehaviour
         {
             EnemyHealth enemyHealth = collision.gameObject.GetComponent<EnemyHealth>();
             enemyHealth.TakeDamage(damage);
+        }
+
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if ((layerMask & (1 << collision.gameObject.layer)) != 0)
+        {
+            Destroy(gameObject, 0.01f);
         }
     }
 }
